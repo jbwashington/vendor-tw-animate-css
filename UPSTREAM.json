@@ -1,0 +1,12 @@
+{
+  "upstream": "Wombosvideo/tw-animate-css",
+  "npm": "tw-animate-css",
+  "tag": "v1.4.0",
+  "commit": "c20dc32e2b532a8e74546879b4ce7d9ce89ba710",
+  "reviewed_through": "v1.4.0",
+  "files": [
+    "src/tw-animate.css",
+    "LICENSE"
+  ],
+  "license": "MIT"
+}
